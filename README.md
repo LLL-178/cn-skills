@@ -59,6 +59,7 @@ cd cn-skills
 | 技能 | 对 agent 直接说 | 产出 |
 |------|----------------|------|
 | [xiaohongshu-post](skills/xiaohongshu-post/SKILL.md) | "帮我写一篇推XX的小红书笔记" | 标题×3 + 封面文案 + 正文 + 标签 |
+| [小红书图文与实况图·红鸦 AI](skills/redya-xiaohongshu/SKILL.md) | “用我的商品资料做图文，直接出图” | 标题、正文、配图或实况图。生成需要红鸦 Key 和积分。[用法与成稿](skills/redya-xiaohongshu/示例.md) |
 | [wechat-article](skills/wechat-article/SKILL.md) | "帮我写篇公众号文章,主题是XX" | 标题×3 + 提纲 + 全文 + 合规检查 |
 | [douyin-script](skills/douyin-script/SKILL.md) | "帮我写个30秒的抖音口播" | 分镜表 + 提词稿 + 时长标注 |
 | [cn-resume](skills/cn-resume/SKILL.md) | "帮我改简历,我要投这个岗" + JD | 逐条改写对照 + 全文 + 面试预测题 |
